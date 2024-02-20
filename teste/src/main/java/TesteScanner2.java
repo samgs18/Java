@@ -1,0 +1,2 @@
+public class TesteScanner2 {
+}
